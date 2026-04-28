@@ -1,1 +1,1 @@
-Testing PR bot reaction
+Testing PR bot reaction.
