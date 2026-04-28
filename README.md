@@ -1,1 +1,1 @@
-Bot trigger test
+Testing PR bot reaction
