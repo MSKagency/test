@@ -1,1 +1,1 @@
-Bot trigger test
+Second bot test
